@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b82d3a73-f954-494a-8ddb-5929925e8c45" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/oneDeam.py" afterPath="$PROJECT_DIR$/chapter_one/oneDeam.py" />
-      <change beforePath="$PROJECT_DIR$/testFrequency.py" afterPath="$PROJECT_DIR$/chapter_one/testFrequency.py" />
-      <change beforePath="$PROJECT_DIR$/test_Ml.py" afterPath="$PROJECT_DIR$/chapter_one/test_Ml.py" />
-      <change beforePath="$PROJECT_DIR$/test_nltk.py" afterPath="$PROJECT_DIR$/chapter_one/test_nltk.py" />
-      <change beforePath="$PROJECT_DIR$/textTF_IDF.py" afterPath="$PROJECT_DIR$/chapter_one/textTF_IDF.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter_two/one.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +13,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="one.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_two/one.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="709">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,12 +44,13 @@
         <option value="$PROJECT_DIR$/testFrequency.py" />
         <option value="$PROJECT_DIR$/textTF_IDF.py" />
         <option value="$PROJECT_DIR$/oneDeam.py" />
+        <option value="$PROJECT_DIR$/chapter_two/one.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="79" />
+    <option name="y" value="146" />
     <option name="width" value="1068" />
     <option name="height" value="1071" />
   </component>
@@ -71,11 +80,6 @@
             <path>
               <item name="DealWord" type="b2602c69:ProjectViewProjectNode" />
               <item name="DealWord" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DealWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DealWord" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_one" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,9 +213,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
+    <frame x="79" y="146" width="1068" height="1071" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2015177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17906067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -233,6 +238,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -243,7 +251,7 @@
         <state relative-caret-position="460">
           <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -271,7 +279,7 @@
         <state relative-caret-position="345">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -289,7 +297,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -309,7 +317,7 @@
         <state relative-caret-position="138">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="30" />
           <folding>
-            <element signature="e#10#28#0" expanded="true" />
+            <element signature="e#10#28#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -319,7 +327,7 @@
         <state relative-caret-position="483">
           <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -329,7 +337,7 @@
         <state relative-caret-position="874">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
-            <element signature="e#247#283#0" expanded="true" />
+            <element signature="e#247#283#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -338,6 +346,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_two/one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
