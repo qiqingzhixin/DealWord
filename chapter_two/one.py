@@ -32,5 +32,8 @@ NNLM(Neural Network Language model)
 
 NNLM:结构模型讲解
 
-
+CBOW（连续词袋)
+通过上下文推断出一个单词
+我喜欢**机器学习
+推断出**为学习
 '''
